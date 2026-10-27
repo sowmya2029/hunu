@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737202160783",
+    "project_id": "pro1-ec748",
+    "storage_bucket": "pro1-ec748.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737202160783:android:10bbc45d26f10fc16bdcfa",
+        "android_client_info": {
+          "package_name": "com.expo.memory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcKGAPVub5t6lO21nmRZbuhRGDyzoCqZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
